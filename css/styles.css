@@ -1,0 +1,72 @@
+body{
+  background-image: url(../photos/me1.jpg);
+  background-color: #2F4F4F;
+  color: white;
+}
+.ric{
+  width: 980px;
+  height: auto;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 2px;
+  padding: 20px;
+  border: 5px solid white;
+  overflow: auto;
+  border-left: 10px solid #DCDCDC;
+  border-right: 10px solid #DCDCDC;
+  border-top: 10px solid #DCDCDC;
+  border-bottom: 10px solid #DCDCDC;
+  font-style: arial;
+
+}
+#social{
+  float: left;
+}
+#social ul li{
+  float: left;
+  list-style: none;
+  padding-right: 60px;
+}
+.col{
+  font-size: 1.5em;
+  color: black;
+}
+#sidebar{
+  float:left;
+  width: 500px;
+  height: 600px;
+  margin: 0 auto;
+  padding: 5px;
+  border-top: 5px solid grey;
+  border-bottom: 5px solid grey;
+  border-left: 5px solid grey;
+  border-right: 5px solid grey;
+  overflow: scroll;
+  color: #FFFACD;
+  font-size: 1.3em;
+}
+#columns{
+  float right;
+  font-size: 1.3em;
+  color: #FAFAD2;
+  margin: 0 auto;
+}
+#lign{
+
+  text-align: center;
+}
+#lock{
+
+  font-style: italic;
+  font-weight: bolder;
+}
+#gallery{
+  text-align: center;
+  margin-top: 20px;
+  padding:0 auto;
+  border-top: 10px solid #FFFACD;
+  border-bottom: 10px solid #FFFACD;
+  font-size: 3em;
+  color: #FFFACD;
+
+}

@@ -1,0 +1,26 @@
+#mygallery{
+
+  width: 980px;
+  height: auto;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 2px;
+  padding: 20px;
+  border: 5px solid white;
+  overflow: auto;
+  border-left: 10px solid #DCDCDC;
+  border-right: 10px solid #DCDCDC;
+  border-top: 10px solid #DCDCDC;
+  border-bottom: 10px solid #DCDCDC;
+  font-style: arial;
+
+}
+body{
+  background-image: url(photos/background.jpg);
+  background-color: #2F4F4F;
+  color: white;
+}
+.we{
+  text-align: center;
+  font: 1.5em;
+}
